@@ -1,0 +1,30 @@
+_repo: The-IncendiaryA-Story-of-Mystery_39544
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39544-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leahy, William Augustine
+    aliases:
+    - Leahy, William A. (William Augustine)
+    - Leahy, W. A. (William Augustine)
+    birthdate: 1867
+    gutenberg_agent_id: '40074'
+    url: http://www.gutenberg.org/2009/agents/40074
+description: ''
+gutenberg_issued: '2012-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39544'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arson -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: 'The Incendiary: A Story of Mystery'
+url: http://www.gutenberg.org/ebooks/39544
